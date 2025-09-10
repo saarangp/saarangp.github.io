@@ -180,6 +180,8 @@ exclude:
   - _pages/repositories.md
   - _pages/projects.md
   - _posts
+  - _news/announcement_2.md
+  - _news/announcement_3.md
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
