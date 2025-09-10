@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://bair.seas.ucla.edu/'>UCLA BAIR</a>. NeuroAI. Etc.
 
 profile:
   align: right
