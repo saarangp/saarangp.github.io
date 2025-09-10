@@ -121,7 +121,7 @@
     {
       "title": "Graduate Research Fellowship Program (GRFP)",
       "date": "2021-09-01",
-      "awarder": "National Science Foundation (NSF)",
+      "awarder": "National Science Foundation (NSF)"
     }
   ],
   "certificates": [
@@ -133,25 +133,103 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Comparing P300 flashing paradigms in online typing with language models",
+      "publisher": "PLOS ONE",
+      "releaseDate": "2025-02",
+      "url": "https://doi.org/10.1371/journal.pone.0303390",
+      "summary": "Explores optimized P300 BCI flashing paradigms integrating language models for improved online typing performance."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Fast ripple band high-frequency activity associated with thalamic sleep spindles in pediatric epilepsy",
+      "publisher": "Clinical Neurophysiology",
+      "releaseDate": "2025",
+      "summary": "Identifies a link between thalamic sleep spindle activity and high-frequency ripple dynamics in pediatric epilepsy."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Evidence of thalamocortical network activation during epileptic spasms: A thalamic stereotactic EEG study",
+      "publisher": "Epilepsia",
+      "releaseDate": "2025",
+      "summary": "Demonstrates thalamocortical activation patterns during epileptic spasms using intracranial EEG."
+    },
+    {
+      "name": "Uncovering spatiotemporal dynamics of the corticothalamic network at ictal onset",
+      "publisher": "Epilepsia",
+      "releaseDate": "2024-07",
+      "summary": "Characterizes corticothalamic network dynamics during seizure onset using intracranial EEG."
+    },
+    {
+      "name": "Mentality: A Mamba-based Approach towards Foundation Models for EEG",
+      "publisher": "ICLR 2024",
+      "releaseDate": "2024-05",
+      "url": "https://openreview.net/forum?id=O6T38rRiFp",
+      "summary": "Introduces a foundation model for EEG using Mamba-based state-space modeling."
+    },
+    {
+      "name": "High performance P300 spellers using GPT-2 word prediction with cross-subject training",
+      "publisher": "Brain-Computer Interfaces",
+      "releaseDate": "2024",
+      "summary": "Improves P300 BCI typing speed using GPT-2 word prediction and cross-subject training strategies."
+    },
+    {
+      "name": "Evaluation Of P300 Speller Performance Using Large Language Models Along With Cross-Subject Training",
+      "publisher": "arXiv",
+      "releaseDate": "2024-10",
+      "url": "https://arxiv.org/abs/2410.15161",
+      "summary": "Assesses the impact of large language models and cross-subject transfer learning on P300 BCI performance."
+    },
+    {
+      "name": "Pretrained transformers for seizure detection",
+      "publisher": "ICASSP",
+      "releaseDate": "2023-05",
+      "summary": "Leverages pretrained transformers to improve seizure detection performance in EEG data."
+    },
+    {
+      "name": "An Automated Deep Learning Approach for the Diagnosis of Limbal Stem Cell Deficiency",
+      "publisher": "Investigative Ophthalmology & Visual Science",
+      "releaseDate": "2023-08",
+      "summary": "Develops an automated DL system for diagnosing limbal stem cell deficiency from ophthalmic imaging."
+    },
+    {
+      "name": "MobileNetV2 based diagnosis and grading of limbal stem cell deficiency",
+      "publisher": "IEEE BIBE",
+      "releaseDate": "2022-11",
+      "summary": "Presents a lightweight MobileNetV2-based DL model for ophthalmic disease classification."
+    },
+    {
+      "name": "A comparative analysis of machine learning approaches to predict C. difficile infection in hospitalized patients",
+      "publisher": "American Journal of Infection Control",
+      "releaseDate": "2022-03",
+      "summary": "Benchmarks ML approaches for predicting hospital-acquired C. difficile infection."
+    },
+    {
+      "name": "Retrospective validation of a machine learning clinical decision support tool for myocardial infarction risk stratification",
+      "publisher": "Healthcare Technology Letters",
+      "releaseDate": "2021-11",
+      "summary": "Validates ML-based clinical decision support for MI risk prediction using EHR data."
+    },
+    {
+      "name": "A MACHINE LEARNING CLINICAL DECISION SUPPORT TOOL FOR MYOCARDIAL INFARCTION DIAGNOSIS",
+      "publisher": "Journal of the American College of Cardiology",
+      "releaseDate": "2021",
+      "summary": "Demonstrates ML-driven improvements in MI diagnosis accuracy at the point of care."
+    },
+    {
+      "name": "Generation of model tissues with dendritic vascular networks via sacrificial laser-sintered carbohydrate templates",
+      "publisher": "Nature Biomedical Engineering",
+      "releaseDate": "2020-09",
+      "summary": "Introduces a novel method for generating tissue models with perfusable vascular networks."
+    },
+    {
+      "name": "Multicenter validation of a machine-learning algorithm for 48-h all-cause mortality prediction",
+      "publisher": "Health Informatics Journal",
+      "releaseDate": "2020-09",
+      "summary": "Presents boosted-tree models for predicting 48h mortality using EMR data across multiple institutions."
+    },
+    {
+      "name": "An automated system for reactive accelerated aging of implant materials with in-situ testing",
+      "publisher": "IEEE EMBC",
+      "releaseDate": "2020-07",
+      "summary": "Develops an automated system for accelerated aging and in-situ evaluation of implant materials."
     }
   ],
   "skills": [
