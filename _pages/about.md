@@ -44,4 +44,4 @@ I'm also interested in more fundamental questions about neuroscience, like "how 
 
 Additional about mes in case you made it this far and are still curious: 
 
-I'm also a huge Arsenal fan (2nd again...), I like noodling on a piano or singing indian classical music, taking pictures of plants (@plantchavati), and I'm trying to run more half marathons. 
+I'm also a huge Arsenal fan (2nd again...), I like noodling on a piano or singing indian classical music, taking pictures of plants (@plantchavati), and I'm trying to run more half marathons. I'm also a huge history nerd ([current favorite podcast](https://open.spotify.com/show/0sBh58hSTReUQiK4axYUVx)) 
