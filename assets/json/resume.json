@@ -181,7 +181,7 @@
       "name": "Pretrained transformers for seizure detection",
       "publisher": "ICASSP",
       "releaseDate": "2023-05",
-      "summary": "Leverages pretrained transformers to improve seizure detection performance in EEG data."
+      "summary": "Leverages pretrained transformers to improve seizure detection performance in EEG data. Achieved second place in seizure detection challenge."
     },
     {
       "name": "An Automated Deep Learning Approach for the Diagnosis of Limbal Stem Cell Deficiency",
@@ -193,7 +193,7 @@
       "name": "MobileNetV2 based diagnosis and grading of limbal stem cell deficiency",
       "publisher": "IEEE BIBE",
       "releaseDate": "2022-11",
-      "summary": "Presents a lightweight MobileNetV2-based DL model for ophthalmic disease classification."
+      "summary": "Presents a lightweight MobileNetV2-based DL model for limbal stem cell deficiency classification."
     },
     {
       "name": "A comparative analysis of machine learning approaches to predict C. difficile infection in hospitalized patients",
@@ -208,12 +208,6 @@
       "summary": "Validates ML-based clinical decision support for MI risk prediction using EHR data."
     },
     {
-      "name": "A MACHINE LEARNING CLINICAL DECISION SUPPORT TOOL FOR MYOCARDIAL INFARCTION DIAGNOSIS",
-      "publisher": "Journal of the American College of Cardiology",
-      "releaseDate": "2021",
-      "summary": "Demonstrates ML-driven improvements in MI diagnosis accuracy at the point of care."
-    },
-    {
       "name": "Generation of model tissues with dendritic vascular networks via sacrificial laser-sintered carbohydrate templates",
       "publisher": "Nature Biomedical Engineering",
       "releaseDate": "2020-09",
@@ -223,30 +217,45 @@
       "name": "Multicenter validation of a machine-learning algorithm for 48-h all-cause mortality prediction",
       "publisher": "Health Informatics Journal",
       "releaseDate": "2020-09",
-      "summary": "Presents boosted-tree models for predicting 48h mortality using EMR data across multiple institutions."
+      "summary": "Presents boosted-tree models for predicting 48h mortality using EHR data across multiple institutions."
     },
     {
       "name": "An automated system for reactive accelerated aging of implant materials with in-situ testing",
       "publisher": "IEEE EMBC",
       "releaseDate": "2020-07",
-      "summary": "Develops an automated system for accelerated aging and in-situ evaluation of implant materials."
+      "summary": "Develops an automated system for accelerated aging and in-situ evaluation of neural implant materials."
     }
   ],
   "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
+  {
+    "name": "Neuroscience",
+    "keywords": [
+      "EEG/SEEG Signal Processing",
+      "Connectivity Analysis",
+      "Neuroimaging",
+      "Neuroanatomy"
+    ]
+  },
+  {
+    "name": "Machine Learning & Deep Learning",
+    "keywords": [
+      "State-space Models",
+      "Transformers",
+      "MedicalAI", 
+      "NeuroAI",
+      "Self supervised Learning",
+      "Foundation models"
+
+    ]
+  },
+  {
+    "name": "Programming & Tooling",
+    "keywords": [
+      "Python", "Pandas", "PyTorch", "TensorFlow", "Keras",
+      "MNE", "Scikit-learn", "SQL", "Java", "Git", "Pytorch Lightning"
+    ]
+  }
+],
   "languages": [
     {
       "language": "English",
@@ -256,9 +265,9 @@
   ],
   "interests": [
     { "name": "Soccer", "keywords": ["Arsenal FC"] },
-    { "name": "Music", "keywords": ["Hindustani Classical Singing"] },
+    { "name": "Music", "keywords": ["Hindustani Classical Singing", "Funk"] },
     { "name": "Photography", "keywords": ["Nature Photography"] },
-    { "name": "Hobbies", "keywords": ["Funk", "Fantasy"] }
+    { "name": "Hobbies", "keywords": ["History", "Wikipedia dives"] }
   ],
   "references": [
   ],

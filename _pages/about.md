@@ -42,6 +42,6 @@ Hello! I'm Saarang, a 5th year PhD candidate at UCLA advised by Dr. William Spei
 
 I'm also interested in more fundamental questions about neuroscience, like "how does the brain process information?". This year, I spent 6 months in London interning with the amazing BrainAI team at Meta's FAIR, where I worked on developing new ways of answering this question (paper coming soon!). 
 
-Additional about mes in case you made it this far and are still curious: 
+Additional about me in case you made it this far and are still curious: 
 
-I'm also a huge Arsenal fan (2nd again...), I like noodling on a piano or singing indian classical music, taking pictures of plants (@plantchavati), and I'm trying to run more half marathons. I'm also a huge history nerd ([current favorite podcast](https://open.spotify.com/show/0sBh58hSTReUQiK4axYUVx)) 
+I'm also a struggling Arsenal fan (2nd again...), I like composing stuff for the piano or singing indian classical music, taking pictures of plants (@plantchavati), and I'm trying to run more half marathons. If I wasn't doing this, I think I would study history? ([current favorite podcast](https://open.spotify.com/show/0sBh58hSTReUQiK4axYUVx)) 
