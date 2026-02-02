@@ -38,7 +38,8 @@ layout: default
       </div>
     {% endif %}
 
-    <div class="clearfix">{{ content }}</div>
+    {% assign about_sections = content | split: '<!--about-me-->' %}
+    <div class="clearfix">{{ about_sections[0] }}</div>
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
@@ -62,6 +63,10 @@ layout: default
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
       </h2>
       {% include selected_papers.liquid %}
+    {% endif %}
+
+    {% if about_sections.size > 1 %}
+      <div class="clearfix">{{ about_sections[1] }}</div>
     {% endif %}
 
     <!-- Social -->

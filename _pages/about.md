@@ -33,15 +33,24 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hello! I'm Saarang, a 5th year PhD candidate at UCLA advised by Dr. William Speier. I focus on using deep learning to better understand the brain (and sometimes vice versa). At UCLA I'm asking 3 main questions: 
+Hello! I'm Saarang, a fifth-year PhD candidate at UCLA advised by Dr. William Speier. I work on using deep learning to better understand the brain (and sometimes vice versa).
 
-1. Can we develop a foundation model for EEG that can be useful for clinical applications? 
-2. Can we uncover how seizures are modulated? 
-3. Can we use deep learning to identify  biomarkers and treatment protocols for epilepsy accordingly? 
-<!-- 4. something about PD here -->
+[cv](/cv/) · [publications](/publications/) · [email](mailto:saarang@g.ucla.edu)
 
-I'm also interested in more fundamental questions about neuroscience, like "how does the brain process information?". This year, I spent 6 months in London interning with the amazing BrainAI team at Meta's FAIR, where I worked on developing new ways of answering this question (paper coming soon!). 
+### research focus
 
-Additional about me in case you made it this far and are still curious: 
+At UCLA, I focus on three main questions:
 
-I'm also a struggling Arsenal fan (2nd again...), I like composing stuff for the piano or singing indian classical music, taking pictures of plants (@plantchavati), and I'm trying to run more half marathons. If I wasn't doing this, I think I would study history? ([current favorite podcast](https://open.spotify.com/show/0sBh58hSTReUQiK4axYUVx)) 
+1. Can we develop a foundation model for EEG that is useful for clinical applications?
+2. Can we uncover how seizures are modulated?
+3. Can we use deep learning to identify biomarkers and guide epilepsy treatment protocols?
+
+### current work
+
+I'm also interested in more fundamental neuroscience questions, like "how does the brain process information?" In 2025, I spent six months in London interning with the BrainAI team at Meta FAIR, where I worked on new approaches to this problem (paper coming soon!).
+
+<!--about-me-->
+
+### about me
+
+I'm also a struggling Arsenal fan (is this our year???????), and I like composing for piano, singing Indian classical music, taking pictures of plants (@plantchavati), and training for more half marathons. If I wasn't doing this, I'd probably study history ([current favorite podcast](https://open.spotify.com/show/0sBh58hSTReUQiK4axYUVx)).
