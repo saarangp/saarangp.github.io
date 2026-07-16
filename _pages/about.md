@@ -35,7 +35,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hello! I'm Saarang, a fifth-year PhD candidate at UCLA advised by Dr. William Speier. I work on using deep learning to better understand the brain (and sometimes vice versa).
 
-[cv](/cv/) · [publications](/publications/) · [email](mailto:saarang@g.ucla.edu)
+[cv](https://saarangp.github.io/cv_latex/resume.pdf) · [scholar](https://scholar.google.com/citations?user=C11Za-sAAAAJ) · [email](mailto:saarang@g.ucla.edu)
 
 ### research focus
 
