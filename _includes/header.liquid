@@ -2,7 +2,9 @@
   <nav id="navbar" class="navbar navbar-light {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
       <a class="navbar-brand site-name" href="{{ '/' | relative_url }}">
-        <span class="font-weight-bold">{{ site.first_name }}</span>{% if site.middle_name %} {{ site.middle_name }}{% endif %} {{ site.last_name }}
+        <span class="font-weight-bold">{{ site.first_name }}</span>
+        {%- if site.middle_name %} {{ site.middle_name }}{% endif %}
+        {{ site.last_name }}
       </a>
       <div class="navbar-links">
         {% assign scholar_id = site.data.socials.scholar_userid %}
