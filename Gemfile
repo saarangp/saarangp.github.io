@@ -20,7 +20,9 @@ group :jekyll_plugins do
 end
 
 group :other_plugins do
-    gem 'css_parser'
+    gem 'activesupport'  # used by _plugins/google-scholar-citations.rb
+    gem 'css_parser'     # used by _plugins/download-3rd-party.rb
+    gem 'nokogiri'       # used by _plugins/google-scholar-citations.rb, download-3rd-party.rb
     gem 'observer'       # used by jekyll-scholar
     gem 'ostruct'
 end
