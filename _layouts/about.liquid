@@ -4,12 +4,12 @@ layout: default
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">
-      {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span>
-        {%- if site.middle_name %} {{ site.middle_name }}{% endif %}
-        {{ site.last_name }}
-      {% else %}
+      {% if page.greeting %}
+        {{ page.greeting }}
+      {% elsif site.title != 'blank' %}
         {{ site.title }}
+      {% else %}
+        Hello
       {% endif %}
     </h1>
     {% if page.subtitle %}

@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+greeting: Hello
 subtitle: <a href='https://bair.seas.ucla.edu/'>UCLA BAIR</a>. NeuroAI. Etc.
 
 profile:
