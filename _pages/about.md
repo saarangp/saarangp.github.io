@@ -34,13 +34,13 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hello! I'm Saarang, a fifth-year PhD candidate at UCLA advised by Dr. William Speier. I work on using deep learning to better understand the brain (and sometimes vice versa).
+Hi! I'm Saarang. I completed my PhD at UCLA in May 2026, advised by Dr. William Speier, where I used deep learning to better understand the brain (and sometimes vice versa). I'm now joining Google DeepMind, working on open-source medical AI.
 
 [cv](https://saarangp.github.io/cv_latex/resume.pdf) · [scholar](https://scholar.google.com/citations?user=C11Za-sAAAAJ) · [email](mailto:saarang@g.ucla.edu)
 
 ### research focus
 
-At UCLA, I focus on three main questions:
+At UCLA, I focused on three main questions:
 
 1. Can we develop a foundation model for EEG that is useful for clinical applications?
 2. Can we uncover how seizures are modulated?
@@ -48,7 +48,7 @@ At UCLA, I focus on three main questions:
 
 ### current work
 
-I'm also interested in more fundamental neuroscience questions, like "how does the brain process information?" In 2025, I spent six months in London interning with the BrainAI team at Meta FAIR, where I worked on new approaches to this problem (paper coming soon!).
+I'm also interested in more fundamental neuroscience questions, like "how does the brain process information?" During my PhD, I spent six months in London interning with the BrainAI team at Meta FAIR, where I worked on new approaches to this problem (paper coming soon!).
 
 <!--about-me-->
 
