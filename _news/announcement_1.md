@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started an internship with the BrainAI team at [FAIR](https://ai.meta.com/research/)! 
+Started an internship with the BrainAI team at [FAIR](https://ai.meta.com/research/)!
