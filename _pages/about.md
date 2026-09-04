@@ -1,57 +1,51 @@
 ---
 layout: about
-title: about
+title: Saarang Panchavati
 permalink: /
-greeting: Hi!
-subtitle: <a href='https://bair.seas.ucla.edu/'>UCLA BAIR</a>. NeuroAI. Etc.
+body_class: home-page
+
+hero:
+  eyebrow: Research Scientist · Paris
+  title: Hi! I’m Saarang.
+  statement: I work on medical AI at Google DeepMind in Paris, with a particular interest in NeuroAI.
 
 profile:
-  align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  # more_info: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+  alt: Saarang Panchavati smiling in a field of tulips
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: true
+  limit: 5
 ---
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<section class="home-section home-focus" id="neuroai" aria-labelledby="neuroai-title">
+  <div class="section-heading">
+    <div>
+      <h2 id="neuroai-title">neuroai</h2>
+    </div>
+  </div>
+  <div class="home-focus__body">
+    <p class="section-lede">I’m interested in how the brain processes and represents information, and in using foundation and world models to better understand its state. During my PhD, I explored these questions through EEG, seizure dynamics, and closed-loop stimulation—with the goal of informing better therapeutic approaches.</p>
+  </div>
+</section>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
-
-Hi! I'm Saarang. I completed my PhD at UCLA in May 2026, advised by Dr. William Speier, where I used deep learning to better understand the brain (and sometimes vice versa). I'm now joining Google DeepMind, working on open-source medical AI.
-
-[cv](https://saarangp.github.io/cv_latex/resume.pdf) · [scholar](https://scholar.google.com/citations?user=C11Za-sAAAAJ) · [email](mailto:saarang@g.ucla.edu)
-
-### research focus
-
-At UCLA, I focused on three main questions:
-
-1. Can we develop a foundation model for EEG that is useful for clinical applications?
-2. Can we uncover how seizures are modulated?
-3. Can we use deep learning to identify biomarkers and guide epilepsy treatment protocols?
-
-### current work
-
-I'm also interested in more fundamental neuroscience questions, like "how does the brain process information?" During my PhD, I spent six months in London interning with the BrainAI team at Meta FAIR, where I worked on new approaches to this problem (paper coming soon!).
+<section class="home-section home-focus" id="medical-ai" aria-labelledby="medical-ai-title">
+  <div class="section-heading">
+    <div>
+      <h2 id="medical-ai-title">medical ai</h2>
+    </div>
+  </div>
+  <div class="home-focus__body">
+    <p class="section-lede">I’m now broadening that work at Google DeepMind, where I’m a Research Scientist working on medical AI.</p>
+    <p class="home-focus__note">tbd — stay tuned!</p>
+  </div>
+</section>
 
 <!--about-me-->
 
-### about me
+<p>I’m also an Arsenal fan (can we do it again?), and I like composing for piano, singing Indian classical music, taking pictures of plants (<a href="https://www.instagram.com/plantchavati/">@plantchavati</a>), and training for more half marathons.</p>
 
-I'm also a struggling Arsenal fan (is this our year???????), and I like composing for piano, singing Indian classical music, taking pictures of plants (@plantchavati), and training for more half marathons. If I wasn't doing this, I'd probably study history ([current favorite podcast](https://open.spotify.com/show/0sBh58hSTReUQiK4axYUVx)).
+<p>If I weren’t doing this, I’d probably study history. Here’s my <a href="https://open.spotify.com/show/0sBh58hSTReUQiK4axYUVx">current favorite podcast</a>.</p>
